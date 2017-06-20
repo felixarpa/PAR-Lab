@@ -1,0 +1,14 @@
+LEVEL CPU SIZE 4
+1.boada-1
+2.boada-1
+3.boada-1
+4.boada-1
+
+LEVEL NODE SIZE 1
+boada-1
+
+LEVEL THREAD SIZE 4
+THREAD 1.1.1
+THREAD 1.1.2
+THREAD 1.1.3
+THREAD 1.1.4

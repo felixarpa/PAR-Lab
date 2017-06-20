@@ -1,0 +1,6 @@
+2    # iterations 
+4    # resolution 
+1    # Algorithm 0=Jacobi 1=Gauss
+2                     # number of heat sources
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 

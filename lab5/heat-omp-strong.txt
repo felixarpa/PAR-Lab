@@ -1,0 +1,2100 @@
+Executing heat sequentially
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 5.487 
+Flops and Flops per second: (11.182 GFlop => 2037.73 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 5.430 
+Flops and Flops per second: (11.182 GFlop => 2059.36 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =5.51500000000000000000
+
+
+Executing heat-omp in parallel with 1 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 5.444 
+Flops and Flops per second: (11.182 GFlop => 2054.09 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 5.380 
+Flops and Flops per second: (11.182 GFlop => 2078.52 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =5.47500000000000000000
+
+
+Executing heat-omp in parallel with 2 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.959 
+Flops and Flops per second: (11.182 GFlop => 2824.29 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 4.018 
+Flops and Flops per second: (11.182 GFlop => 2782.96 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =4.04500000000000000000
+
+
+Executing heat-omp in parallel with 3 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.807 
+Flops and Flops per second: (11.182 GFlop => 2937.09 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.820 
+Flops and Flops per second: (11.182 GFlop => 2927.11 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =4.03500000000000000000
+
+
+Executing heat-omp in parallel with 4 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.915 
+Flops and Flops per second: (11.182 GFlop => 3835.69 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.968 
+Flops and Flops per second: (11.182 GFlop => 3766.84 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =3.00000000000000000000
+
+
+Executing heat-omp in parallel with 5 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.391 
+Flops and Flops per second: (11.182 GFlop => 3297.21 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.013 
+Flops and Flops per second: (11.182 GFlop => 3711.26 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =3.40000000000000000000
+
+
+Executing heat-omp in parallel with 6 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.849 
+Flops and Flops per second: (11.182 GFlop => 2905.37 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.715 
+Flops and Flops per second: (11.182 GFlop => 4118.17 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =3.34500000000000000000
+
+
+Executing heat-omp in parallel with 7 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.543 
+Flops and Flops per second: (11.182 GFlop => 3155.90 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.214 
+Flops and Flops per second: (11.182 GFlop => 3478.63 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =3.44000000000000000000
+
+
+Executing heat-omp in parallel with 8 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.483 
+Flops and Flops per second: (11.182 GFlop => 3210.00 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 4.070 
+Flops and Flops per second: (11.182 GFlop => 2747.42 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =3.84500000000000000000
+
+
+Executing heat-omp in parallel with 9 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 4.156 
+Flops and Flops per second: (11.182 GFlop => 2690.24 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.201 
+Flops and Flops per second: (11.182 GFlop => 3492.91 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =3.74500000000000000000
+
+
+Executing heat-omp in parallel with 10 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.605 
+Flops and Flops per second: (11.182 GFlop => 3101.29 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.861 
+Flops and Flops per second: (11.182 GFlop => 2895.83 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =3.79500000000000000000
+
+
+Executing heat-omp in parallel with 11 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.122 
+Flops and Flops per second: (11.182 GFlop => 3581.10 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.156 
+Flops and Flops per second: (11.182 GFlop => 3543.38 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =3.20000000000000000000
+
+
+Executing heat-omp in parallel with 12 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.780 
+Flops and Flops per second: (11.182 GFlop => 2957.93 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.403 
+Flops and Flops per second: (11.182 GFlop => 3286.21 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =3.65500000000000000000
+Executing heat sequentially
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 5.426 
+Flops and Flops per second: (11.182 GFlop => 2060.82 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 5.547 
+Flops and Flops per second: (11.182 GFlop => 2015.95 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =5.57000000000000000000
+
+
+Executing heat-omp in parallel with 1 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 5.314 
+Flops and Flops per second: (11.182 GFlop => 2104.29 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 5.508 
+Flops and Flops per second: (11.182 GFlop => 2030.16 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =5.50000000000000000000
+
+
+Executing heat-omp in parallel with 2 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.983 
+Flops and Flops per second: (11.182 GFlop => 2807.15 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 4.012 
+Flops and Flops per second: (11.182 GFlop => 2787.31 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =4.05500000000000000000
+
+
+Executing heat-omp in parallel with 3 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.572 
+Flops and Flops per second: (11.182 GFlop => 3130.45 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.320 
+Flops and Flops per second: (11.182 GFlop => 3368.06 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =3.51000000000000000000
+
+
+Executing heat-omp in parallel with 4 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.036 
+Flops and Flops per second: (11.182 GFlop => 3682.84 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.993 
+Flops and Flops per second: (11.182 GFlop => 3735.92 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =3.08500000000000000000
+
+
+Executing heat-omp in parallel with 5 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.096 
+Flops and Flops per second: (11.182 GFlop => 3612.11 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.039 
+Flops and Flops per second: (11.182 GFlop => 3679.90 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =3.13000000000000000000
+
+
+Executing heat-omp in parallel with 6 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.951 
+Flops and Flops per second: (11.182 GFlop => 3789.43 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.139 
+Flops and Flops per second: (11.182 GFlop => 3562.63 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =3.10500000000000000000
+
+
+Executing heat-omp in parallel with 7 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.964 
+Flops and Flops per second: (11.182 GFlop => 3772.99 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.897 
+Flops and Flops per second: (11.182 GFlop => 3860.06 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =2.99000000000000000000
+
+
+Executing heat-omp in parallel with 8 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.069 
+Flops and Flops per second: (11.182 GFlop => 3642.98 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.882 
+Flops and Flops per second: (11.182 GFlop => 3879.46 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =3.03500000000000000000
+
+
+Executing heat-omp in parallel with 9 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.747 
+Flops and Flops per second: (11.182 GFlop => 4070.53 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.233 
+Flops and Flops per second: (11.182 GFlop => 3458.30 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =3.07000000000000000000
+
+
+Executing heat-omp in parallel with 10 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.177 
+Flops and Flops per second: (11.182 GFlop => 3519.29 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.809 
+Flops and Flops per second: (11.182 GFlop => 3980.93 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =3.19000000000000000000
+
+
+Executing heat-omp in parallel with 11 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.437 
+Flops and Flops per second: (11.182 GFlop => 3253.65 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.118 
+Flops and Flops per second: (11.182 GFlop => 3586.19 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =3.41000000000000000000
+
+
+Executing heat-omp in parallel with 12 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.568 
+Flops and Flops per second: (11.182 GFlop => 3133.47 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.647 
+Flops and Flops per second: (11.182 GFlop => 3066.30 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =3.76000000000000000000
+Executing heat sequentially
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 5.489 
+Flops and Flops per second: (11.182 GFlop => 2037.00 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 5.438 
+Flops and Flops per second: (11.182 GFlop => 2056.03 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =5.52500000000000000000
+
+
+Executing heat-omp in parallel with 1 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 5.390 
+Flops and Flops per second: (11.182 GFlop => 2074.39 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 5.453 
+Flops and Flops per second: (11.182 GFlop => 2050.60 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =5.48000000000000000000
+
+
+Executing heat-omp in parallel with 2 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.984 
+Flops and Flops per second: (11.182 GFlop => 2806.75 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.998 
+Flops and Flops per second: (11.182 GFlop => 2796.64 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =4.05500000000000000000
+
+
+Executing heat-omp in parallel with 3 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.227 
+Flops and Flops per second: (11.182 GFlop => 3464.58 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.507 
+Flops and Flops per second: (11.182 GFlop => 3188.31 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =3.43000000000000000000
+
+
+Executing heat-omp in parallel with 4 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.920 
+Flops and Flops per second: (11.182 GFlop => 2852.41 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.011 
+Flops and Flops per second: (11.182 GFlop => 3713.66 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =3.52500000000000000000
+
+
+Executing heat-omp in parallel with 5 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.023 
+Flops and Flops per second: (11.182 GFlop => 3699.08 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.735 
+Flops and Flops per second: (11.182 GFlop => 4088.95 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =2.93500000000000000000
+
+
+Executing heat-omp in parallel with 6 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.572 
+Flops and Flops per second: (11.182 GFlop => 4348.20 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.800 
+Flops and Flops per second: (11.182 GFlop => 3994.06 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =2.74500000000000000000
+
+
+Executing heat-omp in parallel with 7 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.738 
+Flops and Flops per second: (11.182 GFlop => 4083.56 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.656 
+Flops and Flops per second: (11.182 GFlop => 4210.42 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =2.78000000000000000000
+
+
+Executing heat-omp in parallel with 8 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.833 
+Flops and Flops per second: (11.182 GFlop => 3946.77 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.914 
+Flops and Flops per second: (11.182 GFlop => 3836.87 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =2.93500000000000000000
+
+
+Executing heat-omp in parallel with 9 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.940 
+Flops and Flops per second: (11.182 GFlop => 3803.10 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.978 
+Flops and Flops per second: (11.182 GFlop => 3754.74 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =3.02500000000000000000
+
+
+Executing heat-omp in parallel with 10 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.928 
+Flops and Flops per second: (11.182 GFlop => 3818.38 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.868 
+Flops and Flops per second: (11.182 GFlop => 3898.25 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =2.96000000000000000000
+
+
+Executing heat-omp in parallel with 11 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.924 
+Flops and Flops per second: (11.182 GFlop => 3823.73 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.096 
+Flops and Flops per second: (11.182 GFlop => 3611.95 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =3.07000000000000000000
+
+
+Executing heat-omp in parallel with 12 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.136 
+Flops and Flops per second: (11.182 GFlop => 3565.09 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.070 
+Flops and Flops per second: (11.182 GFlop => 3642.49 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =3.16500000000000000000
+Executing heat sequentially
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 5.434 
+Flops and Flops per second: (11.182 GFlop => 2057.79 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 5.489 
+Flops and Flops per second: (11.182 GFlop => 2037.17 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =5.52500000000000000000
+
+
+Executing heat-omp in parallel with 1 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 5.425 
+Flops and Flops per second: (11.182 GFlop => 2061.06 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 5.415 
+Flops and Flops per second: (11.182 GFlop => 2065.00 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =5.49000000000000000000
+
+
+Executing heat-omp in parallel with 2 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.769 
+Flops and Flops per second: (11.182 GFlop => 4037.94 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.789 
+Flops and Flops per second: (11.182 GFlop => 4009.10 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =2.84000000000000000000
+
+
+Executing heat-omp in parallel with 3 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.212 
+Flops and Flops per second: (11.182 GFlop => 5056.08 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.166 
+Flops and Flops per second: (11.182 GFlop => 5162.76 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =2.24500000000000000000
+
+
+Executing heat-omp in parallel with 4 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.781 
+Flops and Flops per second: (11.182 GFlop => 4020.75 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.507 
+Flops and Flops per second: (11.182 GFlop => 7420.03 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =2.20000000000000000000
+
+
+Executing heat-omp in parallel with 5 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.768 
+Flops and Flops per second: (11.182 GFlop => 6324.14 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.740 
+Flops and Flops per second: (11.182 GFlop => 6425.48 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =1.81000000000000000000
+
+
+Executing heat-omp in parallel with 6 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.596 
+Flops and Flops per second: (11.182 GFlop => 7007.83 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.724 
+Flops and Flops per second: (11.182 GFlop => 6484.02 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =1.72000000000000000000
+
+
+Executing heat-omp in parallel with 7 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.797 
+Flops and Flops per second: (11.182 GFlop => 6223.33 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.765 
+Flops and Flops per second: (11.182 GFlop => 6333.83 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =1.83500000000000000000
+
+
+Executing heat-omp in parallel with 8 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 0.890 
+Flops and Flops per second: (11.182 GFlop => 12566.54 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 0.916 
+Flops and Flops per second: (11.182 GFlop => 12210.85 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =.96500000000000000000
+
+
+Executing heat-omp in parallel with 9 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.058 
+Flops and Flops per second: (11.182 GFlop => 10570.76 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.545 
+Flops and Flops per second: (11.182 GFlop => 7237.28 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =1.36500000000000000000
+
+
+Executing heat-omp in parallel with 10 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.674 
+Flops and Flops per second: (11.182 GFlop => 6681.50 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.550 
+Flops and Flops per second: (11.182 GFlop => 7215.69 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =1.67000000000000000000
+
+
+Executing heat-omp in parallel with 11 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.415 
+Flops and Flops per second: (11.182 GFlop => 7900.39 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.899 
+Flops and Flops per second: (11.182 GFlop => 5887.63 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =1.71500000000000000000
+
+
+Executing heat-omp in parallel with 12 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.706 
+Flops and Flops per second: (11.182 GFlop => 6554.17 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.941 
+Flops and Flops per second: (11.182 GFlop => 5759.56 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =1.88000000000000000000
+Executing heat sequentially
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 5.444 
+Flops and Flops per second: (11.182 GFlop => 2054.10 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 5.437 
+Flops and Flops per second: (11.182 GFlop => 2056.56 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =5.50500000000000000000
+
+
+Executing heat-omp in parallel with 1 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 5.470 
+Flops and Flops per second: (11.182 GFlop => 2044.24 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 5.464 
+Flops and Flops per second: (11.182 GFlop => 2046.31 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =5.52500000000000000000
+
+
+Executing heat-omp in parallel with 2 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.772 
+Flops and Flops per second: (11.182 GFlop => 4033.78 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.771 
+Flops and Flops per second: (11.182 GFlop => 4034.93 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =2.82500000000000000000
+
+
+Executing heat-omp in parallel with 3 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.911 
+Flops and Flops per second: (11.182 GFlop => 5851.43 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.911 
+Flops and Flops per second: (11.182 GFlop => 5851.23 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =1.97000000000000000000
+
+
+Executing heat-omp in parallel with 4 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.513 
+Flops and Flops per second: (11.182 GFlop => 7392.25 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.531 
+Flops and Flops per second: (11.182 GFlop => 7301.29 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =1.58000000000000000000
+
+
+Executing heat-omp in parallel with 5 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.227 
+Flops and Flops per second: (11.182 GFlop => 9114.32 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.264 
+Flops and Flops per second: (11.182 GFlop => 8845.22 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =1.31000000000000000000
+
+
+Executing heat-omp in parallel with 6 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.788 
+Flops and Flops per second: (11.182 GFlop => 6255.18 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.049 
+Flops and Flops per second: (11.182 GFlop => 10662.97 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =1.48000000000000000000
+
+
+Executing heat-omp in parallel with 7 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 0.969 
+Flops and Flops per second: (11.182 GFlop => 11538.98 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 0.970 
+Flops and Flops per second: (11.182 GFlop => 11533.29 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =1.03000000000000000000
+
+
+Executing heat-omp in parallel with 8 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 0.901 
+Flops and Flops per second: (11.182 GFlop => 12404.43 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 0.972 
+Flops and Flops per second: (11.182 GFlop => 11504.34 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =1.00500000000000000000
+
+
+Executing heat-omp in parallel with 9 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 0.805 
+Flops and Flops per second: (11.182 GFlop => 13892.77 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 0.916 
+Flops and Flops per second: (11.182 GFlop => 12206.85 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =.92000000000000000000
+
+
+Executing heat-omp in parallel with 10 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.285 
+Flops and Flops per second: (11.182 GFlop => 8701.04 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 0.755 
+Flops and Flops per second: (11.182 GFlop => 14812.32 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =1.08500000000000000000
+
+
+Executing heat-omp in parallel with 11 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.268 
+Flops and Flops per second: (11.182 GFlop => 8820.57 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.303 
+Flops and Flops per second: (11.182 GFlop => 8583.48 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =1.35000000000000000000
+
+
+Executing heat-omp in parallel with 12 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.213 
+Flops and Flops per second: (11.182 GFlop => 9216.27 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.229 
+Flops and Flops per second: (11.182 GFlop => 9097.75 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =1.28500000000000000000
+Executing heat sequentially
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 1 (Gauss-Seidel)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 6.277 
+Flops and Flops per second: (8.806 GFlop => 1403.01 MFlop/s)
+Convergence to residual=0.000050: 12409 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 1 (Gauss-Seidel)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 6.264 
+Flops and Flops per second: (8.806 GFlop => 1405.84 MFlop/s)
+Convergence to residual=0.000050: 12409 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =6.33000000000000000000
+
+
+Executing heat-omp in parallel with 1 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 1 (Gauss-Seidel)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 6.298 
+Flops and Flops per second: (8.806 GFlop => 1398.29 MFlop/s)
+Convergence to residual=0.000050: 12409 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 1 (Gauss-Seidel)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 6.335 
+Flops and Flops per second: (8.806 GFlop => 1390.07 MFlop/s)
+Convergence to residual=0.000050: 12409 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =6.38000000000000000000
+
+
+Executing heat-omp in parallel with 2 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 1 (Gauss-Seidel)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.548 
+Flops and Flops per second: (8.806 GFlop => 2482.23 MFlop/s)
+Convergence to residual=0.000050: 12409 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 1 (Gauss-Seidel)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.564 
+Flops and Flops per second: (8.806 GFlop => 2470.59 MFlop/s)
+Convergence to residual=0.000050: 12409 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =3.61500000000000000000
+
+
+Executing heat-omp in parallel with 3 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 1 (Gauss-Seidel)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.599 
+Flops and Flops per second: (8.806 GFlop => 3387.75 MFlop/s)
+Convergence to residual=0.000050: 12409 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 1 (Gauss-Seidel)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.600 
+Flops and Flops per second: (8.806 GFlop => 3387.07 MFlop/s)
+Convergence to residual=0.000050: 12409 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =2.66000000000000000000
+
+
+Executing heat-omp in parallel with 4 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 1 (Gauss-Seidel)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.198 
+Flops and Flops per second: (8.806 GFlop => 4006.25 MFlop/s)
+Convergence to residual=0.000050: 12409 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 1 (Gauss-Seidel)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.170 
+Flops and Flops per second: (8.806 GFlop => 4057.32 MFlop/s)
+Convergence to residual=0.000050: 12409 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =2.24500000000000000000
+
+
+Executing heat-omp in parallel with 5 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 1 (Gauss-Seidel)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.010 
+Flops and Flops per second: (8.806 GFlop => 4380.66 MFlop/s)
+Convergence to residual=0.000050: 12409 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 1 (Gauss-Seidel)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.115 
+Flops and Flops per second: (8.806 GFlop => 4164.13 MFlop/s)
+Convergence to residual=0.000050: 12409 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =2.15000000000000000000
+
+
+Executing heat-omp in parallel with 6 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 1 (Gauss-Seidel)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.853 
+Flops and Flops per second: (8.806 GFlop => 4753.32 MFlop/s)
+Convergence to residual=0.000050: 12409 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 1 (Gauss-Seidel)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 2.057 
+Flops and Flops per second: (8.806 GFlop => 4280.37 MFlop/s)
+Convergence to residual=0.000050: 12409 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =2.05000000000000000000
+
+
+Executing heat-omp in parallel with 7 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 1 (Gauss-Seidel)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.907 
+Flops and Flops per second: (8.806 GFlop => 4617.00 MFlop/s)
+Convergence to residual=0.000050: 12409 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 1 (Gauss-Seidel)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.818 
+Flops and Flops per second: (8.806 GFlop => 4842.74 MFlop/s)
+Convergence to residual=0.000050: 12409 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =2.01500000000000000000
+
+
+Executing heat-omp in parallel with 8 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 1 (Gauss-Seidel)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.815 
+Flops and Flops per second: (8.806 GFlop => 4852.62 MFlop/s)
+Convergence to residual=0.000050: 12409 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 1 (Gauss-Seidel)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.670 
+Flops and Flops per second: (8.806 GFlop => 5273.62 MFlop/s)
+Convergence to residual=0.000050: 12409 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =1.84000000000000000000
+
+
+Executing heat-omp in parallel with 9 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 1 (Gauss-Seidel)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.722 
+Flops and Flops per second: (8.806 GFlop => 5113.44 MFlop/s)
+Convergence to residual=0.000050: 12409 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 1 (Gauss-Seidel)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.801 
+Flops and Flops per second: (8.806 GFlop => 4889.36 MFlop/s)
+Convergence to residual=0.000050: 12409 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =1.86000000000000000000
+
+
+Executing heat-omp in parallel with 10 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 1 (Gauss-Seidel)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.786 
+Flops and Flops per second: (8.806 GFlop => 4930.72 MFlop/s)
+Convergence to residual=0.000050: 12409 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 1 (Gauss-Seidel)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.748 
+Flops and Flops per second: (8.806 GFlop => 5036.83 MFlop/s)
+Convergence to residual=0.000050: 12409 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =1.87500000000000000000
+
+
+Executing heat-omp in parallel with 11 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 1 (Gauss-Seidel)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.634 
+Flops and Flops per second: (8.806 GFlop => 5390.39 MFlop/s)
+Convergence to residual=0.000050: 12409 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 1 (Gauss-Seidel)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.677 
+Flops and Flops per second: (8.806 GFlop => 5251.27 MFlop/s)
+Convergence to residual=0.000050: 12409 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =1.78000000000000000000
+
+
+Executing heat-omp in parallel with 12 threads
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 1 (Gauss-Seidel)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.626 
+Flops and Flops per second: (8.806 GFlop => 5416.17 MFlop/s)
+Convergence to residual=0.000050: 12409 iterations
+
+
+Iterations        : 25000
+Resolution        : 254
+Algorithm         : 1 (Gauss-Seidel)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 1.630 
+Flops and Flops per second: (8.806 GFlop => 5404.12 MFlop/s)
+Convergence to residual=0.000050: 12409 iterations
+
+
+ELAPSED TIME AVERAGE OF 2 EXECUTIONS =1.70000000000000000000

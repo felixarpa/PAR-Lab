@@ -1,0 +1,6 @@
+speedup: 3.957
+1 MAIN_TAREADOR 1 0.0
+2 init_A 2 0.48 len(0.03) dep(0.05) conc(0.40)
+3 init_B 3 0.56 len(0.04) dep(0.05) conc(0.48)
+4 dot_product 4 0.96 len(0.03) dep(0.86) conc(0.07)
+5 dot_product_it 5 1.00 len(0.91) dep(0.05) conc(0.05)

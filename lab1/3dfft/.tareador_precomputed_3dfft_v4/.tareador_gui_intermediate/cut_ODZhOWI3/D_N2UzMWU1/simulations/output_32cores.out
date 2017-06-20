@@ -1,0 +1,35 @@
+-> Simulator configuration to be read .tareador_gui_intermediate/cut_ODZhOWI3/D_N2UzMWU1//simulations/MN_32cores.cfg
+-> Loading default random values
+-> Loading scheduler configuration from file scheduling.cfg
+   * Scheduling policy selected SS_MPI_CP
+   * Machine 0. Policy: SS_MPI_CP
+   * Loading default communications configuration
+-> Loding initial memory status
+-> Loding initial semaphores status
+-> Loading default file sytem configuration
+..10%..   ..20%..   ..30%..   ..40%..   ..50%..   ..60%..   ..70%..   ..80%..   ..90%..   ..100%..   
+
+10.000000000: END SIMULATION
+
+**** Application 0 (.tareador_gui_intermediate/cut_ODZhOWI3/D_N2UzMWU1/dim.dim) ****
+
+**** Total Statistics ****
+
+Execution time:	0.060012000
+Speedup:	0.00 
+CPU Time:	0.000108000
+
+ Id.	Computation	%time	Communication
+  0	0.000108000	0.18	0.059904000
+
+ Id.	Mess.sent	Bytes sent	Immediate recv	Waiting recv	Bytes recv	Coll.op.	Block time	Comm. time	Wait link time	Wait buses time	I/O time
+  0	9.000000e+00	9.000000e+00	0.000000e+00	1.000000e+00	1.000000e+00	0.000000e+00	0.000000000	0.000000000	0.000000000	0.000000000	0.000000000
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Total	9.000000e+00	9.000000e+00	0.000000e+00	1.000000e+00	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	
+Average	9.000000e+00	9.000000e+00	0.000000e+00	1.000000e+00	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	
+Maximum	9.000000e+00	9.000000e+00	0.000000e+00	1.000000e+00	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	
+Minimum	9.000000e+00	9.000000e+00	0.000000e+00	1.000000e+00	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	
+Stdev	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	
+
+Output Paraver trace ".tareador_gui_intermediate/cut_ODZhOWI3/D_N2UzMWU1//simulations/prv_32cores.prv" generated
+

@@ -1,0 +1,4 @@
+speedup: 2.275
+1 MAIN_TAREADOR 1 0.0
+2 relax_gauss 2 2.29 len(0.83) dep(0.86) conc(0.60)
+3 inner_loop_gauss 3 0.71 len(0.17) dep(0.14) conc(0.40)

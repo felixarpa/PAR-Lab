@@ -1,0 +1,83 @@
+<?xml version='1.0'?>
+
+<trace enabled="yes"
+     home="$EXTRAE_HOME"
+     initial-mode="detail"
+     type="paraver"
+     xml-parser-id="Id: xml-parse.c 588 2011-04-05 09:15:50Z harald $"
+     >
+
+  <counters enabled="yes">
+    <cpu enabled="yes" starting-set-distribution="1">
+      <!-- Counter set for CPU metrics -->
+      <set enabled="yes" domain="all">
+        PAPI_TOT_CYC,PAPI_TOT_INS,PAPI_FP_INS,PAPI_LST_INS
+      </set>
+      <!-- Counter set for memory hierarchy metrics -->
+      <set enabled="no" domain="all">
+        PAPI_TOT_INS,PAPI_L1_DCM,PAPI_L2_DCM,PAPI_L3_TCM
+      </set>
+      <!-- Counter set for false sharing analysis -->
+      <set enabled="no" domain="all">
+       PAPI_TOT_INS,PAPI_TOT_CYC,PAPI_L3_DCA,SNOOPQ_REQUESTS:DATA
+      </set>
+    </cpu>
+    <network enabled="no" />
+    <resource-usage enabled="no" />
+    <memory-usage enabled="no" />
+  </counters>
+
+<!-- 
+For a complete list of counters available please execute /Soft/papi/5.3.2/bin/papi_avail
+PAPI_L1_DCM  0x80000000  Level 1 data cache misses
+PAPI_L1_ICM  0x80000001  Level 1 instruction cache misses
+PAPI_L1_TCM  0x80000006  Level 1 cache misses
+PAPI_L2_DCM  0x80000002  Level 2 data cache misses
+PAPI_L2_ICM  0x80000003  Level 2 instruction cache misses
+PAPI_L2_TCM  0x80000007  Level 2 cache misses
+PAPI_L3_TCM  0x80000008  Level 3 cache misses
+PAPI_L2_DCA  0x80000041  Level 2 data cache accesses
+PAPI_L3_DCA  0x80000042  Level 3 data cache accesses
+PAPI_TOT_CYC 0x8000003b  Total cycles
+PAPI_TOT_INS 0x80000032  Instructions completed
+PAPI_FP_INS  0x80000034  Floating point instructions
+PAPI_LST_INS 0x8000003c  Load/store instructions completed
+PAPI_LD_INS  0x80000035  Load instructions
+PAPI_SR_INS  0x80000036  Store instructions
+PAPI_BR_INS  0x80000037  Branch instructions
+PAPI_TLB_DM  0x80000014  Data translation lookaside buffer misses
+PAPI_TLB_IM  0x80000015  Instruction translation lookaside buffer misses
+PAPI_TLB_TL  0x80000016  Total translation lookaside buffer misses
+Additional native counters are available, please execute /Soft/papi/5.3.2/bin/papi_native_avai
+-->
+
+  <openmp enabled="yes">
+    <locks enabled="yes" />
+    <counters enabled="yes" />
+  </openmp>
+
+  <callers enabled="yes">
+  </callers>
+
+  <user-functions enabled="no" list="./user-functions.dat">
+    <max-depth enabled="no">3</max-depth>
+  </user-functions>
+
+  <storage enabled="no">
+    <trace-prefix enabled="yes">TRACE</trace-prefix>
+    <size enabled="no">5</size>
+    <temporal-directory enabled="yes">/tmp</temporal-directory>
+    <final-directory enabled="yes">$PWD$</final-directory>
+    <gather-mpits enabled="no" />
+  </storage>
+
+  <buffer enabled="yes">
+    <size enabled="yes">500000</size>
+    <circular enabled="no" />
+  </buffer>
+
+  <others enabled="no">
+    <minimum-time enabled="no">10M</minimum-time>
+  </others>
+
+</trace>

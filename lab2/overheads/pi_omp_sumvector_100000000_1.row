@@ -1,0 +1,54 @@
+LEVEL CPU SIZE 24
+01.boada-1
+02.boada-1
+03.boada-1
+04.boada-1
+05.boada-1
+06.boada-1
+07.boada-1
+08.boada-1
+09.boada-1
+10.boada-1
+11.boada-1
+12.boada-1
+13.boada-1
+14.boada-1
+15.boada-1
+16.boada-1
+17.boada-1
+18.boada-1
+19.boada-1
+20.boada-1
+21.boada-1
+22.boada-1
+23.boada-1
+24.boada-1
+
+LEVEL NODE SIZE 1
+boada-1
+
+LEVEL THREAD SIZE 24
+THREAD 1.1.1
+THREAD 1.1.2
+THREAD 1.1.3
+THREAD 1.1.4
+THREAD 1.1.5
+THREAD 1.1.6
+THREAD 1.1.7
+THREAD 1.1.8
+THREAD 1.1.9
+THREAD 1.1.10
+THREAD 1.1.11
+THREAD 1.1.12
+THREAD 1.1.13
+THREAD 1.1.14
+THREAD 1.1.15
+THREAD 1.1.16
+THREAD 1.1.17
+THREAD 1.1.18
+THREAD 1.1.19
+THREAD 1.1.20
+THREAD 1.1.21
+THREAD 1.1.22
+THREAD 1.1.23
+THREAD 1.1.24

@@ -1,0 +1,14 @@
+newgraph
+   title : Speed-up wrt one thread, weak scaling
+   xaxis 
+      label : OMP #threads
+   yaxis
+      label : Speed-up
+      min 0
+      mhash 4 
+
+   newcurve
+      linetype solid
+      marktype none
+      pts
+         include ./efficiency.txt

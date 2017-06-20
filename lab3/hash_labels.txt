@@ -1,0 +1,4 @@
+hash_label at  2  :  STATIC
+hash_label at  3  :  STATIC,10
+hash_label at  4  :  DYNAMIC,10
+hash_label at  5  :  GUIDED,10
